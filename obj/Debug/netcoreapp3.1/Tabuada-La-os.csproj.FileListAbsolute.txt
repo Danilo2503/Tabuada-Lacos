@@ -1,0 +1,13 @@
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\bin\Debug\netcoreapp3.1\Tabuada-La-os.exe
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\bin\Debug\netcoreapp3.1\Tabuada-La-os.deps.json
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\bin\Debug\netcoreapp3.1\Tabuada-La-os.runtimeconfig.json
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\bin\Debug\netcoreapp3.1\Tabuada-La-os.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\bin\Debug\netcoreapp3.1\Tabuada-La-os.dll
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\bin\Debug\netcoreapp3.1\Tabuada-La-os.pdb
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\obj\Debug\netcoreapp3.1\Tabuada-La-os.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\obj\Debug\netcoreapp3.1\Tabuada-La-os.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\obj\Debug\netcoreapp3.1\Tabuada-La-os.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\obj\Debug\netcoreapp3.1\Tabuada-La-os.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\obj\Debug\netcoreapp3.1\Tabuada-La-os.dll
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\obj\Debug\netcoreapp3.1\Tabuada-La-os.pdb
+D:\Desktop\Projetos SENAI\C#\Tabuada Laços\Tabuada-La-os\obj\Debug\netcoreapp3.1\Tabuada-La-os.genruntimeconfig.cache
